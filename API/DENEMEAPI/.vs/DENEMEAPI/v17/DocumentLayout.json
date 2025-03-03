@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akmaz\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m\\Website\\API\\DENEMEAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC5ECB-5C35-0478-8CA3-4D9D91C050D8}|DENEMEAPI.ServiceDefaults\\DENEMEAPI.ServiceDefaults.csproj|c:\\users\\akmaz\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\website\\api\\denemeapi\\denemeapi.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBC5ECB-5C35-0478-8CA3-4D9D91C050D8}|DENEMEAPI.ServiceDefaults\\DENEMEAPI.ServiceDefaults.csproj|solutionrelative:denemeapi.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\akmaz\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m\\Website\\API\\DENEMEAPI\\DENEMEAPI.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "DENEMEAPI.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\Users\\akmaz\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m\\Website\\API\\DENEMEAPI\\DENEMEAPI.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "DENEMEAPI.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:08:20.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

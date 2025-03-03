@@ -1,0 +1,7 @@
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.csproj.AssemblyReference.cache
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.AssemblyInfoInputs.cache
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.AssemblyInfo.cs
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.csproj.CoreCompileInputs.cache
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akmaz\OneDrive\Masaüstü\Yazılım\Website\API\DENEMEAPI\DENEMEAPI\obj\Debug\net9.0\DENEMEAPI.MvcApplicationPartsAssemblyInfo.cache
